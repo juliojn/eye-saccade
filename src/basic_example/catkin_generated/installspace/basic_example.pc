@@ -1,0 +1,8 @@
+prefix=/home/juliojn/Documentos/TFM/install
+
+Name: basic_example
+Description: Description of basic_example
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lbasic_example
+Requires: rospy std_msgs

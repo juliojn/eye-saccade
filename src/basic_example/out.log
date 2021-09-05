@@ -1,0 +1,4 @@
+Updating Model file from 30000 to latest format...
+Loaded model UPAT_Eye_Model_Passive_Pulleys_v2 from file /home/juliojn/Documentos/TFM/src/basic_example/scripts/../model/UPAT_Eye_Model_Passive_Pulleys_v2.osim
+ControllerSet 'Controllers' was renamed and is being reset to 'controllerset'.
+ComponentSet 'MiscComponents' was renamed and is being reset to 'componentset'.
